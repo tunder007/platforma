@@ -4,7 +4,7 @@
       "author":"Catalin Talent",
       "title":"Modern Home",
       "email":"catalin@hehe.com",
-      "image":"src/images/modern-house.jpg",
+      "image":"../images/modern-house.jpg",
       "type":"outdoor"
    },
    {
@@ -12,7 +12,7 @@
       "author":"Mesterul Manole",
       "title":"Traditional",
       "email":"meshmanole@hehe.com",
-      "image":"src/images/modern-house.jpg",
+      "image":"../images/modern-house.jpg",
       "type":"outdoor"
    },
    {
@@ -20,7 +20,7 @@
       "author":"Ciocan Ion",
       "title":"Cozy",
       "email":"ionciokn@hehe.com",
-      "image":"src/images/modern-house.jpg   ",
+      "image":"../images/modern-house.jpg   ",
       "type":"indoor"
    },
    {
@@ -28,7 +28,7 @@
       "author":"Kwame Lesedi Mbango",
       "title":"Funny",
       "email":"mbangokwame@hehe.com",
-      "image":"src/images/modern-house.jpg",
+      "image":"../images/modern-house.jpg",
       "type":"outdoor"
    }
 ]
