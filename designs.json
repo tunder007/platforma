@@ -30,53 +30,5 @@
       "email":"mbangokwame@hehe.com",
       "image":"../images/funny-home.jpg",
       "type":"outdoor"
-   },
-   {
-      "id":5,
-      "author":"Chukuemeka Mbango",
-      "title":"Chukuemeka",
-      "email":"chukuemekambango@hehe.com",
-      "image":"",
-      "type":"outdoor"
-   },
-   {
-      "id":6,
-      "author":"Tejghel Nigel",
-      "title":"Tejel",
-      "email":"tejelnigel@hehe.com",
-      "image":"",
-      "type":"outdoor"
-   },
-   {
-      "id":7,
-      "author":"Margarett Parcalab",
-      "title":"CandySeller",
-      "email":"candygetmargarett@hehe.com",
-      "image":"",
-      "type":"outdoor"
-   },
-   {
-      "id":8,
-      "author":"Patricia Lebsack",
-      "title":"Phospholipids",
-      "email":"phospholebsack@hehe.com",
-      "image":"",
-      "type":"outdoor"
-   },
-   {
-      "id":9,
-      "author":"Ervin Darwin",
-      "title":"Molexin",
-      "email":"molervin@hehe.com",
-      "image":"",
-      "type":"outdoor"
-   },
-   {
-      "id":10,
-      "author":"George Washed Up",
-      "title":"RightPedala",
-      "email":"pedalgeorge@hehe.com",
-      "image":"",
-      "type":"outdoor"
    }
 ]
